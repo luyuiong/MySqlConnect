@@ -1,0 +1,7 @@
+E:\Project\MySqlConnect\MySqlConnect\bin\Debug\MySqlConnect.exe.config
+E:\Project\MySqlConnect\MySqlConnect\bin\Debug\MySqlConnect.exe
+E:\Project\MySqlConnect\MySqlConnect\bin\Debug\MySqlConnect.pdb
+E:\Project\MySqlConnect\MySqlConnect\bin\Debug\MySql.Data.dll
+E:\Project\MySqlConnect\MySqlConnect\obj\Debug\MySqlConnect.csprojResolveAssemblyReference.cache
+E:\Project\MySqlConnect\MySqlConnect\obj\Debug\MySqlConnect.exe
+E:\Project\MySqlConnect\MySqlConnect\obj\Debug\MySqlConnect.pdb
